@@ -1,0 +1,1 @@
+import{_ as c,c as s,a as t,o as a}from"./index-CqwvvtkL.js";const l={class:"AboutView"},n={__name:"AboutView",setup(_){const o=()=>{console.log("双击事件")},e=()=>{console.log("单击事件")};return(i,r)=>(a(),s("div",l,[t("p",{onDblclick:o,onClick:e}," 这是AboutView.vue页面 ",32)]))}},d=c(n,[["__scopeId","data-v-d098daca"]]);export{d as default};
